@@ -42,7 +42,7 @@ h1
     }
  
     #print {
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         color: rgb(52, 2, 56);
         font-size: 35px;
         border: 8px inset rgb(0, 6, 92);
